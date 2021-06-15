@@ -1,0 +1,183 @@
+this was starting with "69" on the hash
+
+
+Index: 0
+Previous Hash: 0
+POW: 492
+Timestamp: 1623467397.6772747
+Transaction List: ['abc', 'bcd']
+New Hash: 69e2cbd066155d2743045343b46ba2ce2c322ddc962b9c38f76db372a1faa8fb
+Duration: 0.011966466903686523
+
+
+Index: 0
+Previous Hash: 0
+POW: 71
+Timestamp: 1623467397.6942277
+Transaction List: ['abc', 'bcd']
+New Hash: 69efbff03c24336758cbf74f5ab71b5d3af514b3c19dba12e2dae3165d462986
+Duration: 0.0020034313201904297
+
+
+Index: 0
+Previous Hash: 0
+POW: 852
+Timestamp: 1623467397.7051988
+Transaction List: ['abc', 'bcd']
+New Hash: 69cffac381b857c88704e75cc0a4c4c94224f77e5cda0adbbaebb2ecc0f70c1c
+Duration: 0.017954349517822266
+
+
+Index: 0
+Previous Hash: 0
+POW: 571
+Timestamp: 1623467397.7251625
+Transaction List: ['abc', 'bcd']
+New Hash: 69839a1d2d1ea10b7b2695ddf6ea89182996e138bfcce8d3539a33b626bdcc53
+Duration: 0.011951208114624023
+
+
+Index: 0
+Previous Hash: 0
+POW: 66
+Timestamp: 1623467397.738109
+Transaction List: ['abc', 'bcd']
+New Hash: 69b8c88a0e5da1508bde60d85e6615d32b983f2a023d15292a39b034e25fe91f
+Duration: 0.0019931793212890625
+
+
+Index: 0
+Previous Hash: 0
+POW: 977
+Timestamp: 1623467397.7420974
+Transaction List: ['abc', 'bcd']
+New Hash: 6916aef8abf2055e93ab9e899bd4eb05cfc21dc61e3fd0af1298cfa394e3c6ba
+Duration: 0.03889632225036621
+
+
+Index: 0
+Previous Hash: 0
+POW: 14
+Timestamp: 1623467397.8094487
+Transaction List: ['abc', 'bcd']
+New Hash: 69fa27f38dcf99add4c3bbacfdfd9cc2154a5d3ceb294052affa7185294ed5bf
+Duration: 0.0009961128234863281
+
+
+Index: 0
+Previous Hash: 0
+POW: 120
+Timestamp: 1623467397.8114421
+Transaction List: ['abc', 'bcd']
+New Hash: 69c370564db0411ae325541024319f107d82aef09a33acbada8a5cf4dc245f3b
+Duration: 0.007985591888427734
+
+
+Index: 0
+Previous Hash: 0
+POW: 968
+Timestamp: 1623467397.8573174
+Transaction List: ['abc', 'bcd']
+New Hash: 693f2514044329ef749bdc27d96c7450d708f19544e421072c62d0307c33be2a
+Duration: 0.022937297821044922
+
+
+Index: 0
+Previous Hash: 0
+POW: 236
+Timestamp: 1623467397.8822474
+Transaction List: ['abc', 'bcd']
+New Hash: 691140b017e1cfc220c38205459de7b5043e66c42af9b20d8a94f207d9d97f42
+Duration: 0.008975744247436523
+
+
+Index: 0
+Previous Hash: 0
+POW: 427
+Timestamp: 1623467397.8932173
+Transaction List: ['abc', 'bcd']
+New Hash: 69c4c31f7a66b780d915223eafe0e627804573115d7b0cbe1c236338e3e9c3cd
+Duration: 0.01994633674621582
+
+
+Index: 0
+Previous Hash: 0
+POW: 54
+Timestamp: 1623467397.9151583
+Transaction List: ['abc', 'bcd']
+New Hash: 693d4f0c0b8c2d18dd37131722199a2008aea2374c6ef38b5bc158a2abd7d99f
+Duration: 0.003989696502685547
+
+
+Index: 0
+Previous Hash: 0
+POW: 16
+Timestamp: 1623467397.9211502
+Transaction List: ['abc', 'bcd']
+New Hash: 69e8823c899017cb470a395ae38dd698e10b25c1d1c9a2e2dc21993cca19a217
+Duration: 0.000989675521850586
+
+
+Index: 0
+Previous Hash: 0
+POW: 83
+Timestamp: 1623467397.9241328
+Transaction List: ['abc', 'bcd']
+New Hash: 69e99e5913fbe3970903af080a7fd231abf00be31414727925598e4e4923a9ab
+Duration: 0.003996610641479492
+
+
+Index: 0
+Previous Hash: 0
+POW: 79
+Timestamp: 1623467397.929121
+Transaction List: ['abc', 'bcd']
+New Hash: 69a08e44ba305cc488f46c75f6ffb7942eaaf44d0221d559e77937d9102369a0
+Duration: 0.001992464065551758
+
+
+Index: 0
+Previous Hash: 0
+POW: 30
+Timestamp: 1623467397.9331112
+Transaction List: ['abc', 'bcd']
+New Hash: 69708e0cf7d7f0b58929fffb9aa66d5dc9e1ea7e92a303d02c956eaf99899fe1
+Duration: 0.0009968280792236328
+
+
+Index: 0
+Previous Hash: 0
+POW: 477
+Timestamp: 1623467397.935106
+Transaction List: ['abc', 'bcd']
+New Hash: 6912100380a1ddc75a67f207a5a569ebb8c6d1f2730ec7fb89469fd4e620524f
+Duration: 0.0069768428802490234
+
+
+Index: 0
+Previous Hash: 0
+POW: 65
+Timestamp: 1623467397.9430804
+Transaction List: ['abc', 'bcd']
+New Hash: 697eeb4ed6c5966de82045835d88dd6844f81d83b23b4b10a36473b7baf91a1d
+Duration: 0.0009982585906982422
+
+
+Index: 0
+Previous Hash: 0
+POW: 482
+Timestamp: 1623467397.945075
+Transaction List: ['abc', 'bcd']
+New Hash: 69257976d5fe473163b27fe72ba6b0fd4bd70066e967f5f8dee81e86a839d9f1
+Duration: 0.006983757019042969
+
+
+Index: 0
+Previous Hash: 0
+POW: 118
+Timestamp: 1623467397.9550486
+Transaction List: ['abc', 'bcd']
+New Hash: 69cf03e19653f1b090a927ac662f0fe332643872c981534b396261931a70a299
+Duration: 0.003992557525634766
+
+

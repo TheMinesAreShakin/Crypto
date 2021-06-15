@@ -1,0 +1,18 @@
+Index: 0
+Previous Hash: 0
+POW: 14210519
+Timestamp: 1623719703.3442268
+Transaction List: ['abc', 'bcd']
+New Hash: 420420e3f79386eca29eef66a50f0e4e9b22b39fca6c81cbe81e860713fbbfe4
+Duration: 153.40952038764954
+
+
+Index: 0
+Previous Hash: 0
+POW: 24952080
+Timestamp: 1623719856.7587392
+Transaction List: ['abc', 'bcd']
+New Hash: 420420fdb1c4ca4328bdae451e7a5a8f79ef2b3c6beb5966bca2acddff726589
+Duration: 245.4074046611786
+
+

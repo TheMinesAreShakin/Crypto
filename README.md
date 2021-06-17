@@ -1,6 +1,8 @@
 TO DO:
 
--when we have the max number of transactions, generate a new block
--calculate hash will need to return a num because we need to do proof of work
+-implement transactions
+--RSA
+--transaction fee
 -miner reward system
--proof of work should start with 42069
+-figure out how the hell to use sockets to create a peer to peer network
+-use pyopencl to optimize for GPU???? -maybe

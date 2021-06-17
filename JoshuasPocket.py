@@ -9,7 +9,7 @@ class Pocket:
         self.pocketID = Pocket.nextPocketID
         Pocket.nextPocketID += 1#FIXME turn into get pocketID static method
         self.previousTransCollected = []
-        self.myWallet = Wallet()
+        self.myWallet = Wallet(self.pocketID)
         self.myChain = Blockchain()
         self.myBlock = None
 

@@ -1,6 +1,7 @@
 import hashlib
 import time
 import TyroneTransactions
+import copy
 
 #below is the right way to hash things dumbass
 #print(hashlib.sha256(b"hello").hexdigest())
@@ -14,7 +15,7 @@ class Block:
         self.index = index
         self.minerID = minerID
         self.previousHash = previousHash
-        self.transactionList = transactionList
+        self.transactionList = self.add_transactions(transactionList)
         self.proof_of_work = 0
         self.timestamp = time.time()
         self.newHash = ""
@@ -44,6 +45,9 @@ class Block:
 
     def get_hash(self):
         return self.newHash
+
+    def add_transactions(self, transList):
+        self.transactionList = copy.deepcopy(transList)
         
 
 class Blockchain:

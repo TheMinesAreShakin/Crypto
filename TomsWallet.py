@@ -15,7 +15,8 @@ class Wallet():
         if sender == self.ownerID:
             pendingBalance = self.balance
             for trans in self.pendingTransactions:
-                pendingBalance -= trans.amount
+                if trans.sender == self.ownerID:
+                    pendingBalance -= trans.amount
             print(pendingBalance)
             if amount > pendingBalance:
                 return

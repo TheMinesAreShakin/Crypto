@@ -1,6 +1,6 @@
 from GarrettChain import Block, Blockchain
 from TomsWallet import Wallet
-import TyroneTransactions #FIXME did I actually use this?
+from TyroneTransactions import Transaction #FIXME did I actually use this? -yes
 
 class Pocket:
     nextPocketID = 0
@@ -42,6 +42,7 @@ print(pocketRocket.pocketID)
 p = Pocket()
 print(p.pocketID)
 for i in range(0, 100):
-    p.addTransaction("{}".format(i))
+    newT = Transaction(0, 1, i)
+    p.addTransaction(newT)
 
 print(p)
